@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684176377 source:c:\users\eryko\desktop\apka\oop-aplication\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
